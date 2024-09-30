@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.0.0-rc.18]
+
+### Enhancements
+
+- [`60a5aea53`](https://www.github.com/tauri-apps/tauri/commit/60a5aea53db02ae6af325812ab97555f2c013d70) ([#11181](https://www.github.com/tauri-apps/tauri/pull/11181) by [@lucasfernog](https://www.github.com/tauri-apps/tauri/../../lucasfernog)) Set the `TRUNK_SERVE_ADDRESS` environment variable when running on iOS physical devices to support Trunk.
+
+### Dependencies
+
+- Upgraded to `tauri-bundler@2.0.1-rc.15`
+
 ## \[2.0.0-rc.17]
 
 ### New Features
